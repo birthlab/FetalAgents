@@ -1,4 +1,4 @@
-# 🤖 (MICCAI 2026) FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis
+# 🤖 (MICCAI 2026 Early Accept Top 9%) FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis
 
 *FetalAgents* is a multi-agent system for comprehensive fetal ultrasound (US) image and video analysis. Through a lightweight, agentic coordination framework, *FetalAgents* dynamically orchestrates specialized vision experts to maximize performance across diagnosis, measurement, and segmentation. *FetalAgents* advances beyond static image analysis by supporting end-to-end video stream summarization, where keyframes are automatically identified across multiple anatomical planes, analyzed by coordinated experts, and synthesized with patient metadata into a structured clinical report. Extensive multi-center external evaluations demonstrate that *FetalAgents* consistently delivers the most robust and accurate performance when compared against specialized models and multimodal large language models (MLLMs), ultimately providing an auditable, workflow-aligned solution for fetal ultrasound analysis and reporting.
 
